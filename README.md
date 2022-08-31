@@ -4,6 +4,7 @@ NTTNews - A powerful news reader created for NTTS.
 # News writing guidelines:
 1. All News reports must have this format:
 
+````json
 {
     "NewsDate": "00.00.0000",
     "l1": "- Main Story",
@@ -18,10 +19,13 @@ NTTNews - A powerful news reader created for NTTS.
     "l10": "Comment",
     "WrittenBy": "YourNick"
 }
-
+````
 > Main Story - Main post of the newspaper.
+> 
 > Other Story - Other not as much important story.
+> 
 > Comment - Your own comment of the story.
+> 
 > YourNick - Your own nick.
 
 2. NO SHITPOSTING
